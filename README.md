@@ -2,6 +2,7 @@
 
 A full-featured, modular RolePlay plugin built on the **Exiled 8.x** framework.  
 All player data is stored as **JSON flat-files** inside `~/.config/EXILED/Configs/EliteRP/`.
+For EliteRP Community and FA Code
 
 ---
 
